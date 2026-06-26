@@ -146,7 +146,7 @@ Arduino IDE board settings:
 |------------------|----------------------------------------|
 | Board            | ESP32S3 Dev Module                     |
 | Flash Size       | 16 MB                                  |
-| PSRAM            | OPI PSRAM                              |
+| PSRAM            | QSPI PSRAM                             |
 | Partition Scheme | 16M Flash (3MB APP / 9.9MB FATFS) or any ≥3 MB app |
 | Upload Speed     | 921600                                 |
 
@@ -366,6 +366,6 @@ No data in Grafana
 
 ---
 
-## License
+## Support
 
-Released under the MIT License. See `LICENSE` for details.
+For technical support or additional documentation, please visit: [NORVI Support](https://norvi.io/contact-us/)
