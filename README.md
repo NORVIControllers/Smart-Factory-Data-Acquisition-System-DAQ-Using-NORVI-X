@@ -29,7 +29,7 @@ Target hardware: NORVI X-CPU-ESPS3-X1 (ESP32-S3-N16R2) with AI4 and DI16 expansi
 - [Serial diagnostics](#serial-diagnostics)
 - [Troubleshooting](#troubleshooting)
 - [Reference documents](#reference-documents)
-- [License](#license)
+- [Support](#Support)
 
 ---
 
